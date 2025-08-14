@@ -18,6 +18,10 @@
 
 LangGraph is a Python framework for designing and managing the flow of tasks in your application using graph structures. This course demonstrates LangGraph concepts through  agent(node) implementations, and Jupyter notebooks.
 
+This project uses RAG_Agent.py to showcase the practical application of vector databases. By processing and querying the Stock_Market_Performance_2024.pdf file, it enables you to ask natural language questions and retrieve relevant information from the document. This provides a hands-on way to understand how vector databases can be used for semantic search and question-answering tasks.
+
+Drafter.py, is designed to automate content generation and management. By binding a collection of specialized tools (update, save) using langChain's tools, it provides a seamless workflow for creating, updating, and saving data.
+
 ---
 
 ## Repository Structure
